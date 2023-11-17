@@ -1,7 +1,6 @@
 # USACOBronze
 
-Compilation problems of USACO Problems that I have solved:
-Try them yourselves!
+Compilation of USACO Problems that I have solved:
 
 mixingmilk.cpp, mixingmilk2.cpp, mixingmilk3.cpp are all very similar solutions of: 2018 December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
