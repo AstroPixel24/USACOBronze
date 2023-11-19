@@ -6,7 +6,7 @@ Compilation of USACO Problems that I have solved:
 fencepainting.cpp: 2015 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
 2018:
-mixingmilk.cpp, mixingmilk2.cpp, mixingmilk3.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
+mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
 2020:
 shellgame.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
