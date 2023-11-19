@@ -10,7 +10,9 @@ mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/inde
 
 2020:
 shellgame.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
+
 wordprocessor.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=987
+
 doyouknowyourabcs.cpp: 2020 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=1059 
 
 2022:
