@@ -8,7 +8,7 @@ fencepainting.cpp: 2015 USACO December Bronze Problem 1 - http://www.usaco.org/i
 
 2016:
 
-cowsignal.cpp: USACO 2016 December Contest Bronze Problem 3 - (http://www.usaco.org/index.php?page=viewproblem2&cpid=665)
+cowsignal.cpp: USACO 2016 December Contest Bronze Problem 3 - http://www.usaco.org/index.php?page=viewproblem2&cpid=665
 
 2018:
 
