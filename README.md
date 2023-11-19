@@ -6,6 +6,10 @@ Compilation of USACO Problems that I have solved.
 
 fencepainting.cpp: 2015 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
+2016:
+
+cowsignal.cpp: USACO 2016 December Contest Bronze Problem 3 - (http://www.usaco.org/index.php?page=viewproblem2&cpid=665)
+
 2018:
 
 mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
