@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     freopen("mixmilk.in", "r", stdin);
-	freopen("mixmilk.out", "w", stdout);
+    freopen("mixmilk.out", "w", stdout);
 
     int a, b, c;
     int c1, c2, c3;
