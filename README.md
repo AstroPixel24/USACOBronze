@@ -15,9 +15,11 @@ cowsignal.cpp: USACO 2016 December Bronze Problem 3 - http://www.usaco.org/index
 
 mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
-2020:
+2019: 
 
 shellgame.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
+
+2020:
 
 wordprocessor.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=987
 
