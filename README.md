@@ -11,6 +11,10 @@ speedingticket.cpp: 2015 USACO December Bronze Problem 2 - http://www.usaco.org/
 
 cowsignal.cpp: USACO 2016 December Bronze Problem 3 - http://www.usaco.org/index.php?page=viewproblem2&cpid=665
 
+2017: 
+
+lostcow.cpp: USACO 2017 US Open Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=735
+
 2018:
 
 mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
