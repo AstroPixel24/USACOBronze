@@ -24,6 +24,8 @@ bovineshuffle.cpp: USACO 2017 December Bronze Problem 1 - http://www.usaco.org/i
 
 mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
+bucketlist.cpp: 2018 USACO December Bronze Problem 2 - http://www.usaco.org/index.php?page=viewproblem2&cpid=856
+
 2019: 
 
 shellgame.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
