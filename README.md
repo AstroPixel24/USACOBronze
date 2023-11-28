@@ -10,6 +10,7 @@ speedingticket.cpp: 2015 USACO December Bronze Problem 2 - http://www.usaco.org/
 
 2016:
 
+diamondcollector.cpp: USACO 2016 US Open Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=639
 circularbarn.cpp: USACO 2016 February Bronze Problem 2 - http://www.usaco.org/index.php?page=viewproblem2&cpid=616
 
 cowsignal.cpp: USACO 2016 December Bronze Problem 3 - http://www.usaco.org/index.php?page=viewproblem2&cpid=665
