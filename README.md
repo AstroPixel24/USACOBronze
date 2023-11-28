@@ -38,9 +38,11 @@ bucketlist.cpp: 2018 USACO December Bronze Problem 2 - http://www.usaco.org/inde
 
 2019: 
 
-shellgame.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
+shellgame.cpp: 2019 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=891
 
-measuringtraffic.cpp: 2020 USACO February Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=917
+measuringtraffic.cpp: 2020 USACO February Bronze Problem 3 - http://www.usaco.org/index.php?page=viewproblem2&cpid=917
+
+bucketbrigade.cpp: 2020 USACO US Open Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=939
 
 2020:
 
