@@ -28,6 +28,8 @@ bovineshuffle.cpp: USACO 2017 December Bronze Problem 2 - http://www.usaco.org/i
 
 2018:
 
+teleportation.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=807
+
 mixingmilk.cpp: 2018 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=855
 
 bucketlist.cpp: 2018 USACO December Bronze Problem 2 - http://www.usaco.org/index.php?page=viewproblem2&cpid=856
