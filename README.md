@@ -48,6 +48,8 @@ bucketbrigade.cpp: 2020 USACO US Open Bronze Problem 1 - http://www.usaco.org/in
 
 wordprocessor.cpp: 2020 USACO January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=987
 
+madscientist.cpp: 2020 USACO February Bronze Problem 2 - http://www.usaco.org/index.php?page=viewproblem2&cpid=1012
+
 doyouknowyourabcs.cpp: 2020 USACO December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=1059 
 
 2022:
