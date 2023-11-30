@@ -22,6 +22,8 @@ cowsignal.cpp: USACO 2016 December Bronze Problem 3 - http://www.usaco.org/index
 
 2017: 
 
+cowtipping.cpp: USACO 2017 January Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=689
+
 lostcow.cpp: USACO 2017 US Open Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=735
 
 blockedbillboard.cpp: USACO 2017 December Bronze Problem 1 - http://www.usaco.org/index.php?page=viewproblem2&cpid=759
